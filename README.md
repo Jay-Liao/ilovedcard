@@ -2,7 +2,7 @@ ilovedcard
 ======================
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/toomore/gogrs/master/LICENSE)
 
-Dcard command line article browser and media downloader. 🔞
+Dcard command line article browser and media downloader.
 
 Install
 --------------
